@@ -49,8 +49,7 @@ print (muestra)
 
 
 
-#    pegarFigAlbum()
-#   checkearAlbumCompletado()
+#    no puedo hacer que vaya grabando cada iteracion a la fila muestra!
 
 
 
